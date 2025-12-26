@@ -10,7 +10,16 @@ IN task1.py program functionality is firstly we take to numbers from user by inp
 veriables num1 , num2 
 on this veriables we used different operator +,-,*,/ to complete our program
 
-MY Task2.py :-
+MY Task2.py :- 
+
+Simple Task it easily complete by two veriable
+
+1.f_name - for first name input from user
+
+2.l_name - for last name  input from user
+
+
+
 
 
 
